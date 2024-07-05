@@ -37,7 +37,10 @@ if name == 'main':
 
 We can choose if we want to select the number of places per project manually or automatically using our functions.
 We can also choose to launch all allocation methods or not, with the choice of developer or client mode, with the moodle file or the generated instance.
+
+
 <img width="347" alt="Screenshot 2024-06-05 at 17 37 39" src="https://github.com/Fuskus31/allocation-of-subjects/assets/70700226/a8daff69-eb43-448a-9b37-e3c3badc95f0">
+
 
 To summarize, The code i have created allows us to create instances to test our functions in different cases that could be real, with the possibility of changing the number of voters and projects available with their number of places, i have coded the functions requested by my tutor to compare them and choose the one that satisfies the maximum number of students.
 
